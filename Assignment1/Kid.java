@@ -27,7 +27,7 @@ class Kid extends Mother
  }
 	public void study()
  {
-	System.out.println("kid is playing");
+	System.out.println("kid is studying");
 	work();
  }
  
